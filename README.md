@@ -12,15 +12,12 @@ A MERN stack social network application with MVP features implemented: user auth
 
 Signup                     |  Feed
 :-------------------------:|:-------------------------:
-![Signup](https://github.com/jm-shi/MERN-Social-Network/blob/master/demo/signup.png)  |  ![Feed](https://github.com/jm-shi/MERN-Social-Network/blob/master/demo/feed.png)
+![Signup](https://github.com/theinmate4587/MERN-Social-Site/blob/master/demo/signup.png)  |  ![Feed](https://github.com/theinmate4587/MERN-Social-Site/blob/master/demo/feed.png)
 
 Comment                    |  Discover
 :-------------------------:|:-------------------------:
-![Comment](https://github.com/jm-shi/MERN-Social-Network/blob/master/demo/comment.png)  |  ![Discover](https://github.com/jm-shi/MERN-Social-Network/blob/master/demo/discover.png)
+![Comment](https://github.com/theinmate4587/MERN-Social-Site/blob/master/demo/comment.png)  |  ![Discover](https://github.com/theinmate4587/MERN-Social-Site/blob/master/demo/discover.png)
 
-Profile                    |  Edit
-:-------------------------:|:-------------------------:
-![Profile](https://github.com/jm-shi/MERN-Social-Network/blob/master/demo/profile.png)  |  ![Edit](https://github.com/jm-shi/MERN-Social-Network/blob/master/demo/edit.png)
 
 
 ## User Stories
