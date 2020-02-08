@@ -38,7 +38,7 @@ const styles = theme => ({
     flexDirection: 'column',
     alignItems: 'center',
     width: theme.spacing.unit * 50,
-    backgroundColor: 'theme.palette.background.paper',
+    backgroundColor: 'theme.palette.background.default',
     boxShadow: theme.shadows[5]
   },
   avatar: {
