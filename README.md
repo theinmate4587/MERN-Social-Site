@@ -1,6 +1,6 @@
 # MERN Social Site
 
-![Build Status](https://travis-ci.com/jm-shi/MERN-Social-Network.svg?branch=master)
+
 
 
 A MERN stack social network application with MVP features implemented: user authentication, profile viewing, posting, commenting, and following/unfollowing.
