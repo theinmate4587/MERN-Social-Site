@@ -5,7 +5,7 @@
 
 A MERN stack social network application with MVP features implemented: user authentication, profile viewing, posting, commenting, and following/unfollowing.
 
-##Since I am more interested in ML field, I was thinking of attaching a ML program which can detect cuss words , threats, trolls and such stuff in the post made by the user. NLP can be used for that purpose.
+## I am working on a ML algortihm which can be used to detect cuss words, threats , trolls and other such things using NLP. It will be added soon.
 
 
 
